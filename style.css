@@ -4,13 +4,34 @@
     float:right;
 }
 
+#temp {
+    
+   border: solid color:white;
+   background-color: #fff;
+    
+}
+.bio{
+    
+  width: 95%;
+  padding-left: 5px;
+  padding-right: 10px;
+}
+
 .astronaut {
     border: 1px solid black;
     display: flex;
     justify-content: space-between;
-    width: 500px;
-    align-items: center;
+    width:95%;
+    float:center;
     padding: 5px;
     margin-bottom: 20px;
-    border-radius: 6px;
+    margin-left: 25px;
+    border-radius: 8px;
+}
+ 
+h1{
+    margin-left: 25px;
+}
+h2{
+    margin-left: 25px;
 }
